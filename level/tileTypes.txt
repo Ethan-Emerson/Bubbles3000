@@ -1,0 +1,27 @@
+start file:images/startBlock.png 0.2 1 0 1 0.2 1 0 1 true 1 start
+goal file:images/goal.png 0.94 1 0 1 0.941 1 0 1 true 1 goal
+erase file:images/barrier.png 0.4 0.4 0.4 1 0.4 0.4 0.4 1 true 0
+death file:images/death.png 0 0 0 0 0 0 0 0 true 1 death
+velocity file:images/velocity.png 0 0 0 0 0 0 0 0 true 1 velocity 10 4 0
+activate file:images/activate.png 0 0 0 0 0 0 0 0 true 1 activate death
+broken file:images/brokenTile.png 0 0 0 0 0 0 0 0 true 1 break 0.5
+push file:images/push.png 0 0 0 0 0 0 0 1 true 1 push 8 0.35 true
+timer file:images/timer.png 0 0 0 0 0 0 0 1 true 1 timer 5.0
+pull file:images/pull.png 0 0 0 0 0 0 0 1 true 1 pull 15 15.0 true
+toggleTimer file:images/timerToggle.png 0 0 0 0 0 0 0 1 true 1 activate timer
+blue file:images/blue.png 0 0 1 0 0 0 1 0 true 3 f1 f2 f3
+bluefloor file:images/bluefloor.png 0 0 1 0 0 0 1 0 true 3 f1 f2 f3
+bluefaded file:images/bluefaded.png 0 0 1 0 0 0 1 0 true 3 f1 f2 f3
+blueextrafaded file:images/blueextrafaded.png 0 0 1 0 0 0 1 0 true 3 f1 f2 f3
+blueleft file:images/blueleftdown.png 0 0 1 0 0 0 1 0 true 3 f1 f2 f3
+blueright file:images/bluerightdown.png 0 0 1 0 0 0 1 0 true 3 f1 f2 f3
+bluestair file:images/bluestair.png 0 0 1 0 0 0 1 0 true 3 f1 f2 f3
+orange file:images/orange.png 0 0 1 0 0 0 1 0 true 3 f1 f2 f3
+orangefloor file:images/orangefloor.png 0 0 1 0 0 0 1 0 true 3 f1 f2 f3
+orangefaded file:images/orangefaded.png 0 0 1 0 0 0 1 0 true 3 f1 f2 f3
+orangeleft file:images/orangeleftdown.png 0 0 1 0 0 0 1 0 true 3 f1 f2 f3
+orangeright file:images/orangerightdown.png 0 0 1 0 0 0 1 0 true 3 f1 f2 f3
+leftspike file:images/leftspike.png 0 0 0 0 0 0 0 0 true 1 death
+red file:images/red.png 0 0 1 0 0 0 1 0 true 3 f1 f2 f3
+redfloor file:images/redfloor.png 0 0 1 0 0 0 1 0 true 3 f1 f2 f3
+redfaded file:images/redfaded.png 0 0 1 0 0 0 1 0 true 3 f1 f2 f3
