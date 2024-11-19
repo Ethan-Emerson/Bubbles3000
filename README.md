@@ -1,2 +1,7 @@
 # Bubbles3000
-Another CS platform game that I made with some friends for our Software Engineering Class. Design YOUR LEVEL TO BE AS FUN AND LONG AND BIG AS YOU WOULD LIKE!
+
+Fun JavaFX platform game where you can customize your entire level and make it how you want and as big as you would like!
+
+Each tiles have a different behavior that can cause the game to go/be played in any direction you see fit!
+
+Just make sure you have javaFX dependencies linked and run the main file!
